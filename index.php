@@ -1,7 +1,11 @@
 <?php
 
-require functions.php;
+$query = require "bootstrap.php";
 
-require index.view.php;
+require "functions.php";
 
+require 'Game.php';
 
+$games = $query->selectAll("games");
+
+require "index.view.php";

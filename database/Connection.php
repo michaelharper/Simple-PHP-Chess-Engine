@@ -16,5 +16,3 @@ class Connection
         }
     }
 }
-
-$pdo = Connection::make();
