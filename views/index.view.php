@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <title>Michael Harper: Simple Chess Engine</title>
 
-    <link rel="stylesheet" href="css/chessboard-0.3.0.css" />
+    <link rel="stylesheet" href="../css/chessboard-0.3.0.css" />
     <script
             src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
-    <script src="js/chessboard-0.3.0.js"></script>
-    <script src="js/chess.js"></script>
+    <script src="../js/chessboard-0.3.0.js"></script>
+    <script src="../js/chess.js"></script>
 </head>
 <body>
 <h1>Simple Chess Engine</h1>
