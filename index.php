@@ -1,5 +1,7 @@
 <?php
 
+$config = require "config.php";
+
 $query = require "bootstrap.php";
 
 require "functions.php";
